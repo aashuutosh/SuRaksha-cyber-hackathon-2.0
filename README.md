@@ -4,4 +4,5 @@ Themes: Real-time anomaly detection &amp; Regulatory compliance. We are building
 Team:
 Atharv Singh Raghuvanshi 
 Ashutosh Pratap Singh 
+Nidhish Rao
 And looking for more
